@@ -1,0 +1,4 @@
+# travesal 
+# insertion 
+# deletion
+# sort
